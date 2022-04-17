@@ -1,0 +1,26 @@
+D:\программы\ООП\Имя\Имя\bin\Debug\netcoreapp3.1\Имя.exe
+D:\программы\ООП\Имя\Имя\bin\Debug\netcoreapp3.1\Имя.deps.json
+D:\программы\ООП\Имя\Имя\bin\Debug\netcoreapp3.1\Имя.runtimeconfig.json
+D:\программы\ООП\Имя\Имя\bin\Debug\netcoreapp3.1\Имя.runtimeconfig.dev.json
+D:\программы\ООП\Имя\Имя\bin\Debug\netcoreapp3.1\Имя.dll
+D:\программы\ООП\Имя\Имя\bin\Debug\netcoreapp3.1\Имя.pdb
+D:\программы\ООП\Имя\Имя\obj\Debug\netcoreapp3.1\Имя.csproj.AssemblyReference.cache
+D:\программы\ООП\Имя\Имя\obj\Debug\netcoreapp3.1\Имя.AssemblyInfoInputs.cache
+D:\программы\ООП\Имя\Имя\obj\Debug\netcoreapp3.1\Имя.AssemblyInfo.cs
+D:\программы\ООП\Имя\Имя\obj\Debug\netcoreapp3.1\Имя.csproj.CoreCompileInputs.cache
+D:\программы\ООП\Имя\Имя\obj\Debug\netcoreapp3.1\Имя.dll
+D:\программы\ООП\Имя\Имя\obj\Debug\netcoreapp3.1\Имя.pdb
+D:\программы\ООП\Имя\Имя\obj\Debug\netcoreapp3.1\Имя.genruntimeconfig.cache
+D:\программы\ООП\Лабораторная работа 1\Имя\bin\Debug\netcoreapp3.1\Имя.exe
+D:\программы\ООП\Лабораторная работа 1\Имя\bin\Debug\netcoreapp3.1\Имя.deps.json
+D:\программы\ООП\Лабораторная работа 1\Имя\bin\Debug\netcoreapp3.1\Имя.runtimeconfig.json
+D:\программы\ООП\Лабораторная работа 1\Имя\bin\Debug\netcoreapp3.1\Имя.runtimeconfig.dev.json
+D:\программы\ООП\Лабораторная работа 1\Имя\bin\Debug\netcoreapp3.1\Имя.dll
+D:\программы\ООП\Лабораторная работа 1\Имя\bin\Debug\netcoreapp3.1\Имя.pdb
+D:\программы\ООП\Лабораторная работа 1\Имя\obj\Debug\netcoreapp3.1\Имя.csproj.AssemblyReference.cache
+D:\программы\ООП\Лабораторная работа 1\Имя\obj\Debug\netcoreapp3.1\Имя.AssemblyInfoInputs.cache
+D:\программы\ООП\Лабораторная работа 1\Имя\obj\Debug\netcoreapp3.1\Имя.AssemblyInfo.cs
+D:\программы\ООП\Лабораторная работа 1\Имя\obj\Debug\netcoreapp3.1\Имя.csproj.CoreCompileInputs.cache
+D:\программы\ООП\Лабораторная работа 1\Имя\obj\Debug\netcoreapp3.1\Имя.dll
+D:\программы\ООП\Лабораторная работа 1\Имя\obj\Debug\netcoreapp3.1\Имя.pdb
+D:\программы\ООП\Лабораторная работа 1\Имя\obj\Debug\netcoreapp3.1\Имя.genruntimeconfig.cache
