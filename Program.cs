@@ -7,15 +7,10 @@ namespace Имя
         private int p;
         string name;
         const double k = 1.5;
-        string age;
         const double x = 3;
         public Person(string nm)
         {
             name = nm;
-        }
-        public string GetName()
-        {
-            return name;
         }
         public Person (string fg)
         {
@@ -52,8 +47,6 @@ namespace Имя
             Console.WriteLine("Введите Минимальный доход");
             string u  = Console.ReadLine();
             int f = Convert.ToInt32(u);
-            Console.WriteLine("Введите возраст");
-            int w = Console.ReadLine();
             Person a = new Person (w);
             Console.WriteLine("Возраст =" + a.GetAge());
             Person q = new Person(k);
@@ -61,7 +54,6 @@ namespace Имя
              Person n = new Person(u);
             Console.WriteLine("Доход=  " + n.Dohod(f).ToString());
             Person b = new Person(u)
-            Console.WriteLine("Максимальный доход=" + b.MaxDohod(f).ToString());
             Console.ReadKey();
         }
     }
