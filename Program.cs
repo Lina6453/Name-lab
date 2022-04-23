@@ -59,9 +59,10 @@ namespace Имя
             Console.WriteLine( "Имя=  " + q.GetName());
              Person n = new Person(u);
             Console.WriteLine("Доход=  " + n.Dohod(f).ToString());
-            Console.ReadKey();
             Person x = new Person(u);
             Console.WriteLine("МаксДоход= " + x.MaxDohod(f).ToString());
+            Console.ReadKey();
+            
         }
     }
 }
