@@ -7,6 +7,7 @@ namespace Имя
         private int p;
         string name;
         const double k = 1.5;
+        const double c = 3.0;
         string age;
         public Person(string nm)
         {
@@ -29,6 +30,10 @@ namespace Имя
         public int Dohod(int p)
         {
             return Convert.ToInt32(Math.Abs(p * k));
+        }
+        public double MaxDohod (int p)
+        {
+            return Convert.ToInt32(Math.Abs(p * c));
         }
 
     }
@@ -55,6 +60,8 @@ namespace Имя
              Person n = new Person(u);
             Console.WriteLine("Доход=  " + n.Dohod(f).ToString());
             Console.ReadKey();
+            Person x = new Person(u);
+            Console.WriteLine("МаксДоход= " + x.MaxDohod(f).ToString());
         }
     }
 }
